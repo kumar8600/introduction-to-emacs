@@ -8,6 +8,7 @@ Emacs 入門
 
 ```bash
 $ mdpress index.md
+$ cp -r img ./index/img
 ```
 
 ライセンス
